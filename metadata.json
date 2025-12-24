@@ -1,0 +1,7 @@
+{
+  "name": "InsuraTransform Pro",
+  "description": "A comprehensive Business Analyst platform for General Insurance transformation, bridging legacy systems with modern Agile/Waterfall delivery frameworks. It features requirement prioritization, process visualization, and AI-driven user story generation.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
